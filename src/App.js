@@ -13,8 +13,14 @@ function App() {
       <Search setWordData={setWordData} setError={setError} />
       <Results wordData={wordData} error={error} />
       <footer>
-        Coded by <strong>Mojdeh Khorsand Moghadam</strong> | Open-source on
-        GitHub
+        Coded by<strong> Mojdeh Khorsand Moghadam</strong> open sourced on
+        <a
+          href="https://github.com/realRJ10/world-clock"
+          target="_blank"
+          rel="noreferrer"
+        >
+          {} GitHub
+        </a>
       </footer>
     </div>
   );

@@ -111,12 +111,22 @@ button:hover {
 }
 
 footer {
-  margin-top: 3rem;
-  color: #7a7284;
   text-align: center;
   font-size: 0.9rem;
+  color: #7a7284;
+  margin-top: 2rem;
 }
 
-strong {
-  color: #4a4458;
+a {
+  text-decoration: none;
+  color: #585889;
+  transition: color 0.2s ease;
+}
+
+a:active {
+  color: #6a5acd;
+}
+
+a:hover {
+  color: #4b0082;
 }
