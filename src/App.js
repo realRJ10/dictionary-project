@@ -15,7 +15,7 @@ function App() {
       <footer>
         Coded by<strong> Mojdeh Khorsand Moghadam</strong> open sourced on
         <a
-          href="https://github.com/realRJ10/world-clock"
+          href="https://github.com/realRJ10/dictionary-project"
           target="_blank"
           rel="noreferrer"
         >
